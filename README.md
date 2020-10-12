@@ -1,8 +1,10 @@
 # Watch how to make Easy chocolate chip cookie
 
+![Chocolate Chip Cookie](cookies.jpg)
+
 ### Ingrediens:
 
-![Chocolate Chip Cookie](cookies.jpg)
+
 
 * 225g (1 cup) caster sugar
 * 300g (2 cups) plain flour (sifted)
