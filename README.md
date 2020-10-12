@@ -2,6 +2,8 @@
 
 ### Ingrediens:
 
+(/testingreadme/cookies.jpg)
+
 * 225g (1 cup) caster sugar
 * 300g (2 cups) plain flour (sifted)
 * 200g (1 cup) of butter melted
